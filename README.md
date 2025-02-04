@@ -22,7 +22,7 @@
 <p align="center"><i>"Coding is not just a skill, it's a way to bring ideas to life. Let’s create something that lasts!"</i></p>
 
 <!-- Profile Picture -->
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 ## 💫 About Me
 - 🔭 I’m currently learning **Programming with C# .Net**.
