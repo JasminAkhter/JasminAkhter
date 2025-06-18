@@ -1,11 +1,18 @@
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime+Bold&size=34&pause=1000&color=ff5f6d&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" 
-    alt="Typing SVG" />
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime+Bold&size=34&pause=1000&color=ffc371&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" 
-    alt="Typing SVG" />
+  <svg width="600" height="80">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ff5f6d;" />
+        <stop offset="100%" style="stop-color:#ffc371;" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Courier Prime, monospace" font-size="36" fill="url(#gradient)">
+      Welcome to my profile!
+    </text>
+  </svg>
 </h1>
+
 
 
 
