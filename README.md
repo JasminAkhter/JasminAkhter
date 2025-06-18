@@ -1,21 +1,8 @@
 <h1 align="center">
-  <svg width="600" height="80">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#ff5f6d;" />
-        <stop offset="100%" style="stop-color:#ffc371;" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Courier Prime, monospace" font-size="36" fill="url(#gradient)">
-      Welcome to my profile!
-    </text>
-  </svg>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime+Bold&size=34&pause=1000&color=07435c&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!" 
+    alt="Typing SVG" />
 </h1>
-
-
-
-
 <!-- Custom SVG Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Code%20With%20Passion&height=100&section=header&animation=fadeIn&fontColor=fff&fontSize=40&fontAlignY=40" width="100%" height="100%" />
