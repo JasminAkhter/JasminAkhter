@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=07435c&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;" alt="Typing SVG">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0D8ABC&center=true&vCenter=true&width=600&height=60&lines=👋+Hello+There!;🚀+Welcome+to+my+GitHub+profile!;💻+Coding+my+dreams+into+reality;" 
+    alt="Typing SVG" />
 </h1>
 
 <!-- Custom SVG Banner -->
